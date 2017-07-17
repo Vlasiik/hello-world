@@ -1,2 +1,3 @@
 # hello-world
-This is my firs repository
+This is my first repository
+Yeah, I'm Vlasiik and I'm writing the code!
